@@ -1,0 +1,122 @@
+.l-login-container{
+  display:flex;
+  flex-direction:row;
+  height:100vh;
+  margin-bottom:50px;
+  }
+  .l-heading{
+    font-size:25px;
+    font-family:"Roboto";
+    margin-bottom:20px;
+    
+  }
+  .l-container-form {
+    padding: 20px;
+    margin-right:0px;
+    
+  }
+  
+  .l-background-image{
+   background-image: url('https://i.ibb.co/18nDGX9/images.jpg');
+    background-size:cover;
+    height:100vh;
+    width:50vw;
+    padding:20px;
+    
+
+}
+.l-link{
+  margin-top:50px;
+  
+  
+}
+.click{
+  color: black;
+  margin-left:200px;
+ border-radius:5px;
+ text-decoration:none;
+ border: solid 1px;
+ font-size:15px;
+ padding:10px;
+ height:20px;
+ background-color:cadetblue;
+}
+  
+  .l-bg-heading {
+    font-family: 'Roboto';
+    font-size: 25px;
+    margin-left:50px;
+  }
+  .l-name-and-username-container {
+    display: flex;
+  }
+  .l-name {
+    display: flex;
+    flex-direction: column;
+  }
+  .l-username {
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+  }
+  .l-email {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+  .l-password {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+  }
+  .l-checkout {
+    display: flex;
+    flex-direction: row;
+  }
+  .l-checkbox {
+    margin-top: 50px;
+    margin-left: 10px;
+  }
+  label {
+    font-family: 'Roboto';
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  .l-button {
+    background-color:red;
+    color:black;
+    font-family: 'Roboto';
+    font-size: 12px;
+    width: 130px;
+    height: 25px;
+    border-radius: 5px;
+    border: 0px;
+  }
+  p {
+    font-family: 'Roboto';
+    font-size: 15px;
+  }
+  span {
+    color: blue;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .l-text {
+    background-color: lightpink;
+    height: 35px;
+    width: 600px;
+    border: 0px;
+    border-radius: 5px;
+    padding: 8px;
+  }
+  .l-text-1 {
+    background-color: lightpink;
+    height: 35px;
+    width: 275px;
+    border: 0px;
+    border-radius: 5px;
+    padding: 8px;
+    color: white;
+  }
+  

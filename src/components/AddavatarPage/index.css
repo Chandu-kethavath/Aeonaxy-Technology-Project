@@ -1,0 +1,126 @@
+.a-container {
+  display: flex;
+  flex-direction: column;
+  margin-left: 500px;
+  justify-content: center;
+  
+  margin-right: 200px;
+  margin-top: 50px;
+}
+h1 {
+  font-family: 'Roboto';
+  font-size: 30px;
+  margin-bottom: 3px;
+}
+h2 {
+  font-family: 'Roboto';
+  font-size: 15px;
+  margin-left: 20px;
+}
+p {
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.a-location-container {
+  display: flex;
+  flex-direction: column;
+}
+label {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: 7px;
+}
+.a-next-button {
+  width: 150px;
+  height: 27px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  text-decoration:none;
+  border-radius: 5px;
+  border: 0px;
+  background-color: cadetblue;
+  margin-top:50px;
+  color:black;
+  font-family: 'Roboto';
+}
+.a-input {
+  border: 0px;
+  box-shadow: 0px 1px 0px rgba(1, 1, 1, 1);
+  padding: 10px 10px 10px 18px;
+  width: 700px;
+  height: 30px;
+}
+.a-icon {
+  width: 20px;
+  height: 20px;
+  margin-left: 5px;
+}
+.a-icon-container {
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+  align-items: center;
+}
+.a-choose-images {
+  display: flex;
+  flex-direction: column;
+  margin-left: 75px;
+}
+.a-camera-icon {
+  height:15px;
+  width: 15px;
+  border-width: 70px;
+  border-radius: 100px;
+  border: dashed 1px;
+  padding:50px;
+  
+}
+
+
+.a-avatar-and-choose-image-container {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 50px;
+
+  align-items: center;
+}
+.a-choose-image-button {
+  border: solid 1px;
+  background-color: transparent;
+  width: 120px;
+  height: 30px;
+  border-color: cadetblue;
+  border-radius: 5px;
+  padding: 5px;
+  font-family: 'Roboto';
+  font-weight: bold;
+  margin-left: 10px;
+}
+.a-heading{
+  font-size:30px;
+  font-family: "Roboto";
+}
+.a-heading-2{
+  font-size:20px;
+  font-family: "Roboto";
+
+}
+.a-label{
+  font-size:20px;
+  font-family: "Roboto";
+
+}
+.a-one{
+  margin-top:32px;
+}
+.return{
+  color:cornflowerblue;
+  font-family:"Roboto";
+  font-size:15px;
+  text-decoration:none;
+  margin-left:20px;
+  margin-top:20px;
+
+}
